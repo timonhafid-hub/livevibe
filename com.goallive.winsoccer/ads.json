@@ -585,10 +585,10 @@
     "PlayericonUrl": "https://play-lh.googleusercontent.com/R6Xysk2Cs-jlS_CbdjjtXdnZjfXefz4LZ_Rgcpg1qAujC6jpfr9trr6o7RKPaISOoSQ0TgFow8ojQcbCMJ7LjA=w480-h960-rw",
     "UpdatePackage": "com.ukturksapp.fixturestandingni",
     "UpdateVersion": 1,
-    "ShowTvChannels": false,
-    "ShowLiveMatches": false,
+    "ShowTvChannels": true,
+    "ShowLiveMatches": true,
     "ShowCustomInterAds": false,
-    "PlayInExternalPlayer": false
+    "PlayInExternalPlayer": true
   },
   "CustomInterAds": [
     {
